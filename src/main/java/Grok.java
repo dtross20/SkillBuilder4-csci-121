@@ -3,7 +3,7 @@
  * a PowerPill to replenish their energy.  This makes them difficult
  * to kill.
  *
- * @author (You Again)
+ * @author (Deyvon)
  * @version (0.1)
  */
 public class Grok
